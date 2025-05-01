@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "code-runner.executorMap": {
+        "cpp": "g++ -std=c++17 $fileName -o $fileNameWithoutExt && $fileNameWithoutExt.exe"
+    },
+    "code-runner.runInTerminal": true
+}
