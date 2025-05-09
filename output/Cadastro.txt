@@ -1,0 +1,5 @@
+Nome: Yan | Nota1: 10.00 | Nota2: 9.00 | Media: 9.50
+Nome: Ian | Nota1: 10.00 | Nota2: 9.00 | Media: 9.50
+Nome: Ana | Nota1: 10.00 | Nota2: 10.00 | Media: 10.00
+Nome: Robert | Nota1: 5.00 | Nota2: 4.00 | Media: 4.50
+Nome: Zelia | Nota1: 1.00 | Nota2: 5.00 | Media: 3.00

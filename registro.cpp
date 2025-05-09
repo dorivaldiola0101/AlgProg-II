@@ -12,7 +12,8 @@ struct tData
 };
 struct tPessoa
 {    char nome[MAX+1];
-    float altura;    tData dtnasc;
+    float altura;   
+    tData dtnasc;
 };
 // funcao para listar as opcoes do menu e retornar// a opcao que usuario escolher
 int menu(){
